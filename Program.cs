@@ -6,7 +6,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ちわわ!");
+            Console.WriteLine("Hello ちわわわ!");
             int result = Add(3, 5);
             Console.WriteLine("結果: " + result);
         }
